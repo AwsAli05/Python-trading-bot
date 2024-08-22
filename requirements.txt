@@ -1,0 +1,5 @@
+alpaca_trade_api==3.2.0
+lumibot==3.6.21
+timedelta==2020.12.3
+torch==2.2.2+cu118
+transformers==4.40.1
