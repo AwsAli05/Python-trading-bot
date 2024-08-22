@@ -21,7 +21,7 @@ The project features sentiment analysis using the FinBERT model to assess the ov
 1. **Clone the Repository**: Clone the repository to your local machine using the command:
 
    ```bash
-   git clone https://github.com/yourusername/ml-trading-strategy.git
+   git clone https://github.com/AwsAli05/Python-trading-bot.git
    ```
 
 2. **Install Dependencies**: Navigate to the project directory and install the required Python packages using the command:
